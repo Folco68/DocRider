@@ -1,0 +1,2 @@
+# DocRider
+Machine documentation management
