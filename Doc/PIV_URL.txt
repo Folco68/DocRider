@@ -1,0 +1,24 @@
+Complete URL
+https://piv.tetrapak.com/techpub/?
+PublCategory=Packaging&
+PublType=EM&PublType=IM&PublType=MM&PublType=OM&PublType=SPC&
+Language=01&Language=04&
+SerialNo=21234/00062&
+Section=1&
+Devstep=0600&
+Status=Official&
+EquipmentType=8&
+EquipmentDrawingSpec=648575&
+SortBy=IssueDate&
+SortDesc=true&
+Limit=25
+
+URL which can be crafted, producing the same doc list
+https://piv.tetrapak.com/techpub/?
+PublCategory=Packaging&
+PublType=EM&PublType=IM&PublType=MM&PublType=OM&PublType=SPC&
+Language=01&Language=04&
+SerialNo=21234/00062&
+Section=1&
+Status=Official&
+Limit=25
