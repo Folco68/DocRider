@@ -1,0 +1,38 @@
+===============
+    ACTIONS
+===============
+
+Machine
+- New
+- Edit
+- Delete
+
+Settings
+- PIV URLs
+- Automatic update
+
+Admin tools
+- Update documentation
+- Clean orphean docs
+- Clean orphean countries / customers / lines /
+
+About / Log / License / Changelog
+
+
+================
+    FEATURES
+================
+
+Diagrams (base / RK)
+Determine machine type with a table. Automatic table update from github?
+Machines not bound to a country/customer/line (conveyors...)
+
+
+=============
+    Index
+=============
+
+Country list
+Customer list
+Line list
+Machine list
